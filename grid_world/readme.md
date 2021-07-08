@@ -1,6 +1,6 @@
 # Grid World
 
-**固定不同的探索率（epsilon）下，sarsa收敛的Q值是不同的**
+**固定不同的探索率（epsilon），sarsa收敛的Q值不同**
 
 ![gridword_q_sarsa](https://github.com/ArinoWang/biscuit/blob/main/grid_world/epsilons_differ.png)
 
